@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Currency-calculator-react/static/css/main.83f20707.css",
+    "main.js": "/Currency-calculator-react/static/js/main.9205c436.js",
+    "static/js/787.d301f907.chunk.js": "/Currency-calculator-react/static/js/787.d301f907.chunk.js",
+    "index.html": "/Currency-calculator-react/index.html",
+    "main.83f20707.css.map": "/Currency-calculator-react/static/css/main.83f20707.css.map",
+    "main.9205c436.js.map": "/Currency-calculator-react/static/js/main.9205c436.js.map",
+    "787.d301f907.chunk.js.map": "/Currency-calculator-react/static/js/787.d301f907.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83f20707.css",
+    "static/js/main.9205c436.js"
+  ]
+}
